@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="io.github.imknown.healthbluetooth.activity.MainActivity" >
+
+    <item
+        android:id="@+id/action_scan"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:icon="@drawable/res_scan"
+        android:title="@string/action_scan"/>
+
+</menu>

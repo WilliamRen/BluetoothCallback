@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">蓝牙2~4</string>
+    <string name="action_scan">扫描</string>
+    <string name="action_connect">连接</string>
+    <string name="action_disconnect">断开</string>
+
+</resources>
