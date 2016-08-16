@@ -1,5 +1,6 @@
 # BluetoothCallback
-An android Bluetooth framework for classic and ble. Have some bugs.
+An android Bluetooth framework for classic and ble.  
+Demo have some bugs.
 
 # More info see:
 > https://github.com/imknown/BluetoothCallback/tree/master/Module/BTDemo/src/main/java/io/github/imknown/healthbluetooth/demo  
